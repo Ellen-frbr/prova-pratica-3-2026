@@ -1,0 +1,123 @@
+produto,categoria,preco,quantidade,vendedor,regiao,mes
+Caixa de Som,Áudio,110.0,10.0,Carla,Leste,Abr
+Monitor,Informática,900.0,10.0,Carla,Oeste,Abr
+Cabo HDMI,Acessórios,30.0,3.0,Diego,Sul,Fev
+Webcam,Informática,150.0,7.0,Ana,Norte,Mar
+Caixa de Som,Áudio,110.0,1.0,Diego,Oeste,Abr
+HD Externo,Armazenamento,350.0,4.0,Carla,Oeste,Jan
+Fone,Áudio,80.0,4.0,Ana,Sul,Jan
+Caixa de Som,Áudio,110.0,5.0,Diego,Leste,Mai
+Cabo HDMI,Acessórios,30.0,7.0,Diego,Leste,Mar
+Webcam,Informática,150.0,7.0,Carla,Leste,Mar
+Monitor,Informática,900.0,4.0,Ana,Oeste,Mai
+Cabo HDMI,Acessórios,30.0,7.0,Carla,Oeste,Abr
+Cabo HDMI,Acessórios,30.0,3.0,Ana,Oeste,Mar
+Fone,Áudio,80.0,6.0,Elisa,Norte,Jan
+Mousepad,Acessórios,25.0,2.0,Bruno,Sul,Jan
+Webcam,Informática,150.0,10.0,Bruno,Oeste,Fev
+Teclado,Informática,120.0,9.0,Bruno,Sul,Mar
+Cabo HDMI,Acessórios,30.0,5.0,Carla,Sul,Abr
+Mousepad,Acessórios,25.0,6.0,Elisa,Leste,Mai
+Teclado,Informática,120.0,4.0,Ana,Norte,Mai
+Webcam,Informática,150.0,10.0,Diego,Oeste,Abr
+Mouse,Informática,50.0,,Ana,Leste,Jun
+HD Externo,Armazenamento,350.0,9.0,Diego,Leste,Fev
+Mousepad,Acessórios,25.0,7.0,Ana,Oeste,Mai
+Pen Drive,Acessórios,40.0,1.0,Elisa,Sul,Mar
+Mouse,Informática,50.0,1.0,Diego,Leste,Fev
+HD Externo,Armazenamento,350.0,9.0,Carla,Sul,Mar
+Fone,Áudio,,9.0,Ana,Norte,Jan
+Caixa de Som,Áudio,110.0,4.0,Ana,Sul,Fev
+Monitor,Informática,900.0,9.0,Diego,Norte,Mai
+Pen Drive,Acessórios,40.0,3.0,Carla,Sul,Fev
+Fone,Áudio,80.0,7.0,Carla,Leste,Fev
+Webcam,Informática,150.0,6.0,Elisa,Leste,Fev
+Fone,Áudio,80.0,8.0,Carla,Norte,Jun
+Caixa de Som,Áudio,,9.0,Carla,Oeste,Fev
+Webcam,Informática,150.0,5.0,Carla,Norte,Mar
+Pen Drive,Acessórios,40.0,1.0,Bruno,Norte,Jan
+Caixa de Som,Áudio,110.0,3.0,Elisa,Sul,Abr
+Teclado,Informática,120.0,10.0,Ana,Sul,Fev
+Monitor,Informática,900.0,8.0,Diego,Norte,Mai
+Pen Drive,Acessórios,40.0,6.0,Ana,Leste,Fev
+Teclado,Informática,120.0,8.0,Elisa,Sul,Mai
+HD Externo,Armazenamento,350.0,9.0,Diego,Oeste,Mar
+Pen Drive,Acessórios,40.0,4.0,Elisa,Sul,Mai
+HD Externo,Armazenamento,350.0,1.0,Carla,Sul,Abr
+Webcam,Informática,150.0,1.0,Diego,Oeste,Jan
+Teclado,Informática,120.0,10.0,Carla,Norte,Mai
+Monitor,Informática,900.0,4.0,Ana,Oeste,Mai
+Caixa de Som,Áudio,110.0,7.0,Ana,Norte,Jan
+Cabo HDMI,Acessórios,30.0,2.0,Diego,Norte,Abr
+Fone,Áudio,80.0,3.0,Diego,Norte,Fev
+Mouse,Informática,50.0,1.0,Elisa,Oeste,Mai
+Monitor,Informática,900.0,,Elisa,Norte,Jan
+Teclado,Informática,120.0,1.0,Carla,Leste,Mar
+Cabo HDMI,Acessórios,30.0,,Diego,Oeste,Jan
+Monitor,Informática,900.0,1.0,Ana,Leste,Mar
+Teclado,Informática,120.0,1.0,Elisa,Norte,Abr
+Mousepad,Acessórios,25.0,2.0,Elisa,Sul,Fev
+Mousepad,Acessórios,25.0,2.0,Ana,Norte,Jan
+HD Externo,Armazenamento,350.0,6.0,Elisa,Leste,Jun
+Monitor,Informática,900.0,7.0,Carla,Leste,Mai
+Mousepad,Acessórios,25.0,5.0,Diego,Oeste,Abr
+Teclado,Informática,120.0,1.0,Ana,Sul,Jan
+HD Externo,Armazenamento,350.0,1.0,Diego,Oeste,Mai
+Teclado,Informática,120.0,3.0,Elisa,Leste,Jan
+HD Externo,Armazenamento,350.0,2.0,Elisa,Norte,Mar
+Monitor,Informática,900.0,5.0,Ana,Sul,Jan
+Cabo HDMI,Acessórios,30.0,10.0,Carla,Norte,Jun
+Caixa de Som,Áudio,110.0,6.0,Bruno,Norte,Jan
+Pen Drive,Acessórios,,7.0,Ana,Sul,Jan
+Cabo HDMI,Acessórios,30.0,4.0,Bruno,Oeste,Jun
+Webcam,Informática,150.0,7.0,Bruno,Norte,Abr
+Teclado,Informática,120.0,8.0,Carla,Leste,Jan
+Webcam,Informática,150.0,1.0,Bruno,Norte,Jun
+Cabo HDMI,Acessórios,30.0,6.0,Bruno,Sul,Mai
+HD Externo,Armazenamento,350.0,8.0,Carla,Sul,Mar
+Pen Drive,Acessórios,40.0,5.0,Bruno,Sul,Mar
+Pen Drive,Acessórios,40.0,4.0,Bruno,Oeste,Jan
+Mouse,Informática,50.0,2.0,Bruno,Norte,Abr
+Pen Drive,Acessórios,40.0,,Ana,Oeste,Abr
+Caixa de Som,Áudio,110.0,6.0,Ana,Oeste,Mai
+Pen Drive,Acessórios,40.0,1.0,Ana,Sul,Jan
+Cabo HDMI,Acessórios,30.0,9.0,Carla,Sul,Mar
+Mouse,Informática,50.0,6.0,Elisa,Oeste,Abr
+Cabo HDMI,Acessórios,30.0,3.0,Bruno,Norte,Jan
+Cabo HDMI,Acessórios,30.0,4.0,Bruno,Leste,Abr
+Fone,Áudio,80.0,4.0,Carla,Oeste,Jun
+Mouse,Informática,50.0,3.0,Bruno,Norte,Abr
+Cabo HDMI,Acessórios,30.0,10.0,Ana,Sul,Mar
+Fone,Áudio,80.0,3.0,Elisa,Sul,Fev
+Fone,Áudio,80.0,3.0,Diego,Norte,Mai
+Mouse,Informática,50.0,4.0,Bruno,Leste,Mai
+Webcam,Informática,150.0,7.0,Ana,Sul,Mar
+HD Externo,Armazenamento,350.0,4.0,Diego,Sul,Abr
+Caixa de Som,Áudio,110.0,9.0,Elisa,Sul,Jan
+HD Externo,Armazenamento,350.0,1.0,Diego,Norte,Abr
+Pen Drive,Acessórios,40.0,8.0,Ana,Oeste,Mar
+Caixa de Som,Áudio,110.0,7.0,Diego,Sul,Mai
+Pen Drive,Acessórios,40.0,2.0,Carla,Oeste,Abr
+Cabo HDMI,Acessórios,30.0,8.0,Diego,Leste,Mai
+Teclado,Informática,120.0,1.0,Bruno,Sul,Jan
+Mouse,Informática,50.0,9.0,Bruno,Sul,Mai
+Caixa de Som,Áudio,110.0,9.0,Carla,Leste,Mai
+Caixa de Som,Áudio,110.0,2.0,Ana,Sul,Fev
+Cabo HDMI,Acessórios,30.0,7.0,Bruno,Oeste,Fev
+Webcam,Informática,150.0,10.0,Elisa,Norte,Jun
+Fone,Áudio,80.0,3.0,Bruno,Oeste,Fev
+Cabo HDMI,Acessórios,30.0,7.0,Bruno,Norte,Mai
+Mousepad,Acessórios,25.0,10.0,Ana,Norte,Mar
+Fone,Áudio,80.0,9.0,Diego,Oeste,Mai
+Mouse,Informática,50.0,4.0,Bruno,Oeste,Mar
+Fone,Áudio,80.0,,Carla,Oeste,Mar
+Webcam,Informática,150.0,,Diego,Oeste,Fev
+Fone,Áudio,80.0,1.0,Elisa,Leste,Abr
+Mouse,Informática,50.0,5.0,Ana,Sul,Jan
+Webcam,Informática,150.0,5.0,Elisa,Norte,Fev
+HD Externo,Armazenamento,350.0,7.0,Diego,Oeste,Fev
+Caixa de Som,Áudio,110.0,9.0,Diego,Oeste,Abr
+Caixa de Som,Áudio,110.0,9.0,Diego,Oeste,Jan
+Pen Drive,Acessórios,,3.0,Elisa,Leste,Mai
+Monitor,Informática,900.0,4.0,Ana,Oeste,Mai
+Webcam,Informática,150.0,1.0,Diego,Oeste,Jan
